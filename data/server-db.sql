@@ -41,7 +41,7 @@ CREATE TABLE `oauth_clients` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 INSERT INTO `oauth_clients` (`client_id`, `client_secret`, `redirect_uri`, `grant_types`, `scope`, `user_id`) VALUES
-('client.unclexo.com', 'client19713000000', '', NULL, NULL, NULL);
+('test_client', 'test_secret', '', NULL, NULL, NULL);
 
 CREATE TABLE `oauth_jwt` (
   `client_id` varchar(80) NOT NULL,
