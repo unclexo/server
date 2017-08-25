@@ -3,7 +3,7 @@ Resource Server API
 
 **server** is a RESTful application. This works as the Resource Server and the Authorization Server from the same API server. So this would be both your resource server and authorization server. **server** uses OAuth2 authentication framework to authenticate resource owner using password grant.
 
-**Caution:** This is designed to work with this repo <a href="https://github.com/unclexo/client">client</a> which would be a Client of this API. So this must be ready too!
+**Caution:** This is designed to work with this repo <a href="https://github.com/unclexo/client">client</a> which would be a Client of this API. To get a complete applicatoin this needs to be set up too.
 
 Installation
 ------------
