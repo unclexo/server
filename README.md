@@ -53,7 +53,7 @@ Database Setup
 
 ### Database tables:
 
-Database tables are shipped with this repo in the `data` folder. Otherwise, you may get the sql file from <a href="https://github.com/unclexo/client/blob/master/data/server-db.sql">here</a>.
+Database tables are shipped with this repo in the `data` folder. Otherwise, you may get the sql file from <a href="https://github.com/unclexo/server/blob/master/data/server-db.sql">here</a>.
 
 What More Needs to Be Done
 --------------------------
